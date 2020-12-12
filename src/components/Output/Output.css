@@ -1,0 +1,15 @@
+ul, li {
+    list-style: none;
+}
+
+li {
+    margin: 10px 2rem;
+}
+
+.key {
+    color: rgb(151, 50, 40);
+}
+
+.value {
+    color: #D19A66;
+}
